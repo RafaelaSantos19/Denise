@@ -1,0 +1,43 @@
+header{
+    background-color: aqua;
+    text-align: center;
+    border: 6px aquamarine solid;
+    height: 60px;
+    width: 99%;
+}
+nav{
+    text-align: center;
+    border: 6px antiquewhite solid;
+    background-color: aliceblue;
+    width: 99%;
+}
+a{
+    text-decoration: none;
+    background-color: blanchedalmond;
+    color: black;
+}
+footer{
+    text-align: center;
+    border: 6px aquamarine solid;
+    background-color: aqua;
+    height: 60px;
+    width: 99%;
+}
+aside{
+    text-align: left;
+    height: 2cm;
+    width: 99%;
+    border: 6px antiquewhite solid;
+    background-color: aliceblue;
+}
+div.box {
+	width: 255px;
+	display: inline-block;
+    border: 6px antiquewhite solid;
+    background-color: aliceblue;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
